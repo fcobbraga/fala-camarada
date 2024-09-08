@@ -9,7 +9,7 @@ READY_DATA_DIR_PATH = 'data/ready'
 RAW_COMMITTEE_SCHEDULE_PATH = 'data/raw/agenda_comissoes.csv'
 READY_COMMITTEE_SCHEDULE_PATH = 'data/ready/metadados_transcricoes.csv'
 
-TARGET_YEARS = [year for year in range(1995, 2022)]
+TARGET_YEARS = [year for year in range(2010, 2024)]
 
 
 def fix_committee_schedule():

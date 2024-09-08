@@ -5,7 +5,7 @@ import pandas as pd
 DADOS_AGENDA_COMISSOES = 'data/ready/metadados_comissoes.csv'
 
 CARACTERISTICAS_DADOS_TCC = {
-    'ano': [ano for ano in range(2009, 2019)],
+    'ano': [ano for ano in range(2010, 2024)],
     'categoria_comissao': ['Comissão Permanente'],
     'categoria_evento': [
         'Audiência Pública com Convidado',
